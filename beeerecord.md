@@ -11,4 +11,4 @@
 
 # BEEE record task and subtask
 
-everything complete
+everything completed
